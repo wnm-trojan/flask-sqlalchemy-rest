@@ -1,3 +1,1 @@
-"# flask-sqlalchemy-rest" 
-"# flask-sqlalchemy-rest" 
-"# flask-sqlalchemy-rest" 
+# Flask SQLAlchemy REST app for beginners
